@@ -34,23 +34,23 @@ a {
     top: 5px;
     left: 5px;
     width: 100px;
-    bottom: 200px;
+    bottom: 5px;
     border-right: solid 1px #000000;
 }
 
 .mainbody {
     top: 5px;
     left: 114px;
-    right: 114px;
-    bottom: 200px;
+    right: 214px;
+    bottom: 5px;
     padding-right: 5px;
 }
 
 .rightmenu {
     top: 5px;
     right: 5px;
-    width: 100px;
-    bottom: 200px;
+    width: 200px;
+    bottom: 5px;
     border-left: solid 1px #000000;
     padding-left: 5px;
 }
